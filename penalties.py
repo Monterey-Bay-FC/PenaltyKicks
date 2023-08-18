@@ -13,7 +13,7 @@ CURRENT_YEAR = 2023
 CURRENT_MONTH = 4
 PENALTY_TYPE = "Career"  # "Last Season" or "Career" are the two options, changes how the first index of the dictionary values is calculated (penalties taken)
 
-DATA_SHEET = "PenaltyData.csv"
+DATA_SHEET = "data/penaltyData.csv"
 
 def calculateTaker():
     CURRENT_TEAM = input("Enter team: ")
