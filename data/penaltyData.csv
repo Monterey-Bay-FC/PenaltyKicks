@@ -159,23 +159,28 @@ Justin Ingram,Las Vegas Lights,Loyola Greyhounds,3,2021,American Eagles,None,Rig
 Daniel Rios,Las Vegas Lights,Houston Dynamo II,9,2022,Tacoma Defiance,None,Right,Medium,Fast,2,2,Goal
 Issa Rayyan,Las Vegas Lights,Philadelphia Union II,10,2020,Hartford Athletic,None,Right,Medium,Fast,4,0,Save
 Pato Botello Faz,Las Vegas Lights,Las Vegas Lights,5,2023,FC Tulsa,None,Right,Medium,Fast,3,1,Goal
-Erick Torres,Las Vegas Lights,Las Vegas Lights,5,2023,Charleston Battery,Trey Muse,Right,Medium,Fast,6,1,Save
-Erick Torres,Las Vegas Lights,Orange County SC,6,2022,New Mexico United,Alex Tambakis,Right,Medium,Fast,4,0,Save
-Erick Torres,Las Vegas Lights,Orange County SC,6,2022,Oakland Roots,None,Right,Medium,Fast,5,1,Goal
-Erick Torres,Las Vegas Lights,Orange County SC,4,2022,Sacramento Republic,None,Right,Medium,Fast,5,1,Goal
-Erick Torres,Las Vegas Lights,Tijuana,2,2020,Morelia,None,Right,Medium,Medium,9,0,Goal
-Erick Torres,Las Vegas Lights,Tijuana U20,1,2020,Club America U20,None,Right,Medium,Medium,4,0,Save
-Erick Torres,Las Vegas Lights,Tijuana U20,8,2019,Toluca U20,None,Right,Medium,Fast,9,0,Goal
-Erick Torres,Las Vegas Lights,Tijuana U20,4,2019,Lobos BUAP U20,None,Right,Medium,Medium,8,3,Miss
-Erick Torres,Las Vegas Lights,Pumas UNAM,2,2018,Lobos BUAP  ,None,Right,Fast,Fast,2,0,Goal
-Erick Torres,Las Vegas Lights,Pumas UNAM,2,2018,Lobos BUAP,None,Right,Medium,Fast,3,1,Save
-Erick Torres,Las Vegas Lights,Chivas USA,10,2014,Real Salt Lake,None,Right,Medium,Medium,8,0,Save
-Erick Torres,Las Vegas Lights,Chivas USA,7,2014,DC United,None,Right,Medium,Medium,3,0,Goal
-Erick Torres,Las Vegas Lights,Chivas USA,5,2014,Houston Dynamo,None,Right,Medium,Medium,7,0,Goal
-Erick Torres,Las Vegas Lights,Chivas USA,4,2014,Seattle Sounders,None,Right,Fast,Medium,8,0,Goal
-Erick Torres,Las Vegas Lights,Chivas USA,3,2014,Chicago Fire  ,None,Right,Medium,Fast,9,0,Goal
-Erick Torres,Las Vegas Lights,Chivas USA,8,2013,New York Red Bulls ,None,Right,Fast,Fast,2,0,Goal
+Erick Torres,Guanacasteca,Las Vegas Lights,5,2023,Charleston Battery,Trey Muse,Right,Medium,Fast,6,1,Save
+Erick Torres,Guanacasteca,Orange County SC,6,2022,New Mexico United,Alex Tambakis,Right,Medium,Fast,4,0,Save
+Erick Torres,Guanacasteca,Orange County SC,6,2022,Oakland Roots,None,Right,Medium,Fast,5,1,Goal
+Erick Torres,Guanacasteca,Orange County SC,4,2022,Sacramento Republic,None,Right,Medium,Fast,5,1,Goal
+Erick Torres,Guanacasteca,Tijuana,2,2020,Morelia,None,Right,Medium,Medium,9,0,Goal
+Erick Torres,Guanacasteca,Tijuana U20,1,2020,Club America U20,None,Right,Medium,Medium,4,0,Save
+Erick Torres,Guanacasteca,Tijuana U20,8,2019,Toluca U20,None,Right,Medium,Fast,9,0,Goal
+Erick Torres,Guanacasteca,Tijuana U20,4,2019,Lobos BUAP U20,None,Right,Medium,Medium,8,3,Miss
+Erick Torres,Guanacasteca,Pumas UNAM,2,2018,Lobos BUAP  ,None,Right,Fast,Fast,2,0,Goal
+Erick Torres,Guanacasteca,Pumas UNAM,2,2018,Lobos BUAP,None,Right,Medium,Fast,3,1,Save
+Erick Torres,Guanacasteca,Chivas USA,10,2014,Real Salt Lake,None,Right,Medium,Medium,8,0,Save
+Erick Torres,Guanacasteca,Chivas USA,7,2014,DC United,None,Right,Medium,Medium,3,0,Goal
+Erick Torres,Guanacasteca,Chivas USA,5,2014,Houston Dynamo,None,Right,Medium,Medium,7,0,Goal
+Erick Torres,Guanacasteca,Chivas USA,4,2014,Seattle Sounders,None,Right,Fast,Medium,8,0,Goal
+Erick Torres,Guanacasteca,Chivas USA,3,2014,Chicago Fire  ,None,Right,Medium,Fast,9,0,Goal
+Erick Torres,Guanacasteca,Chivas USA,8,2013,New York Red Bulls ,None,Right,Fast,Fast,2,0,Goal
+Andrew Carleton,Las Vegas Lights,Las Vegas Lights,8,2023,Loudoun United,None,Right,Medium,Fast,3,1,Save
+Andrew Carleton,Las Vegas Lights,Las Vegas Lights,7,2023,Sacramento Republic,None,Right,Medium,Fast,2,1,Goal
 Andrew Carleton,Las Vegas Lights,San Diego Loyal,4,2022,Louisville City,None,Right,Medium,Fast,8,2,Goal
+Andrew Carleton,Las Vegas Lights,Atlanta United II,4,2018,Louisville City,None,Right,Medium,Fast,2,0,Goal
+Andrew Carleton,Las Vegas Lights,Atlanta United II,4,2018,,None,Right,Medium,Fast,4,3,Miss
+Andrew Carleton,Las Vegas Lights,USYNT U17,11,2016,Portugal U17,None,Right,Medium,Medium,2,2,Goal
 Emmanuel Ledesma,Las Vegas Lights,SJK,6,2021,KuPS,None,Left,Medium,Fast,7,1,Save
 Emmanuel Ledesma,Las Vegas Lights,SJK,9,2020,KTP,None,Left,Fast,Fast,7,0,Save
 Emmanuel Ledesma,Las Vegas Lights,SJK,9,2019,Haka,None,Left,Medium,Fast,7,0,Goal
@@ -321,8 +326,8 @@ Santi Moar,New Mexico United,New Mexico United,6,2019,Colorado Rapids,None,Right
 Santi Moar,New Mexico United,New Mexico United,5,2019,Phoenix Rising,None,Right,Medium,Medium,2,2,Goal
 Santi Moar,New Mexico United,Bethlehem Steel,10,2018,Pittsburgh Riverhounds,None,Right,Medium,Fast,4,2,Goal
 Santi Moar,New Mexico United,Bethlehem Steel,8,2018,Ottawa Fury,None,Right,Fast,Fast,2,0,Goal
-Josh Dolling,New Mexico United,New Mexico United,4,2023,UDA Soccer,None,Right,Medium,Fast,2,0,Goal
-Josh Dolling,New Mexico United,Creighton Bluejays,3,2021,Missouri State Bears,None,Right,Medium,Fast,5,0,Save
+Josh Dolling,Las Vegas Lights,New Mexico United,4,2023,UDA Soccer,None,Right,Medium,Fast,2,0,Goal
+Josh Dolling,Las Vegas Lights,Creighton Bluejays,3,2021,Missouri State Bears,None,Right,Medium,Fast,5,0,Save
 Greg Hurst,New Mexico United,Phoenix Rising,5,2022,Sacramento Republic,None,Right,Medium,Fast,3,0,Save
 Greg Hurst,New Mexico United,Union Omaha,10,2021,Forward Madison,None,Right,Medium,Fast,2,1,Goal
 Greg Hurst,New Mexico United,Chattanooga Red Wolves,10,2020,Forward Madison,None,Right,Medium,Fast,2,0,Goal
@@ -361,6 +366,7 @@ Justin Portillo,New Mexico United,Charleston Battery,6,2015,Orlando City SC,None
 Justin Portillo,New Mexico United,Charleston Battery,5,2015,Wilmington Hammerheads,None,Right,Slow,Medium,2,0,Goal
 Seku Conneh,None,Monterey Bay FC,9,2022,Phoenix Rising,Ben Lundt,Right,Fast,Fast,4,4,Miss
 Tarek Morad,Oakland Roots,Oakland Roots,11,2021,Orange County SC,None,Right,Medium,Medium,9,0,Goal
+Tarek Morad,Oakland Roots,Louisville City,10,2017,Richmond Kickers,None,Right,Fast,Slow,3,1,Save
 Bryan Tamacas,Oakland Roots,El Salvador,6,2023,Martinique,None,Right,Slow,Fast,6,1,Goal
 Bryan Tamacas,Oakland Roots,Alianza,5,2022,Aguila,None,Right,Slow,Medium,3,1,Goal
 Bryan Tamacas,Oakland Roots,Alianza,5,2022,Firpo,None,Right,Slow,Medium,2,1,Goal
@@ -369,10 +375,13 @@ Joseph Nane,Oakland Roots,Oakland Roots,11,2021,Orange County SC,None,Left,Mediu
 Napo Matsoso,Oakland Roots,Louisville City,10,2022,Pittsburgh Riverhounds,None,Right,Medium,Fast,8,1,Goal
 Napo Matsoso,Oakland Roots,Louisville City,4,2022,St. Louis City II,None,Right,Medium,Medium,9,0,Goal
 Irakoze Donasiyano,Oakland Roots,Virginia Cavaliers,10,2020,Virginia Tech,None,Right,Medium,Medium,7,0,Save
+Anuar Pelaez,Oakland Roots,Oakland Roots,8,2023,Colorado Springs,None,Right,Medium,Fast,9,0,Goal
 Anuar Pelaez,Oakland Roots,Hermanos Colmenares,6,2022,Mineros de Guayana,None,Right,Medium,Medium,4,1,Goal
 Anuar Pelaez,Oakland Roots,Hermanos Colmenares,3,2022,Academia Puerto Cabello,None,Right,Medium,Medium,2,0,Goal
 Anuar Pelaez,Oakland Roots,Hermanos Colmenares,11,2021,Portuguesa,None,Right,Medium,Medium,2,0,Goal
 Anuar Pelaez,Oakland Roots,Hermanos Colmenares,8,2021,Portuguesa,None,Right,Medium,Medium,9,0,Goal
+Johnny Rodriguez,Oakland Roots,Oakland Roots,9,2023,Las Vegas Lights,None,Right,Medium,Fast,2,0,Goal
+Johnny Rodriguez,Oakland Roots,Oakland Roots,7,2023,Monterey Bay FC,Antony Siaha,Right,Medium,Fast,9,1,Goal
 Brent Richards,Orange County SC,Reno 1868,10,2020,Phoenix Rising,None,Right,Medium,Fast,6,2,Goal
 Markus Nakkim,Orange County SC,Mjondalen,3,2022,Kongsvinger,None,Right,Medium,Fast,2,2,Goal
 Markus Nakkim,Orange County SC,Mjondalen,5,2021,Sanderfjord,None,Right,Medium,Fast,6,0,Save
@@ -408,11 +417,20 @@ Emil Nielsen,Orange County SC,Roskilde,5,2019,Viborg,None,Right,Medium,Fast,7,0,
 Emil Nielsen,Orange County SC,Roskilde,11,2018,Fredericia,None,Right,Medium,Fast,2,0,Goal
 Emil Nielsen,Orange County SC,Roskilde,9,2019,Lyngby,None,Right,Medium,Fast,2,1,Goal
 Marc McNulty,Orange County SC,Sunderland,10,2019,Oxford United,None,Right,Fast,Fast,7,0,Save
-Thomas Amang,Orange County SC,Orange County SC,6,2023,FC Tulsa,None,Right,Medium,Fast,5,2,Goal
+Thomas Amang,Orange County SC,Orange County SC,7,2023,Monterey Bay FC,None,Right,Medium,Fast,3,0,Goal
+Thomas Amang,Orange County SC,Orange County SC,6,2023,FC Tulsa,None,Right,Medium,Fast,4,2,Goal
+Milan Iloski,Orange County SC,Orange County SC,10,2023,Oakland Roots,None,Right,Medium,Fast,2,0,Goal
+Milan Iloski,Orange County SC,Orange County SC,7,2023,Loudoun United,None,Right,Medium,Medium,2,0,Goal
 Milan Iloski,Orange County SC,Orange County SC,6,2023,FC Tulsa,None,Right,Medium,Fast,7,0,Save
 Milan Iloski,Orange County SC,Orange County SC,4,2023,Indy Eleven,None,Right,Medium,Medium,9,0,Goal
 Milan Iloski,Orange County SC,Orange County SC,4,2023,Capo,None,Right,Medium,Medium,9,0,Goal
 Milan Iloski,Orange County SC,Real Monarchs,7,2021,Las Vegas Lights,None,Right,Medium,Medium,9,0,Goal
+Cameron Dunbar,Orange County SC,Minnesota United II,8,2023,LA Galaxy II,None,Right,Medium,Medium,2,0,Goal
+Cameron Dunbar,Orange County SC,Minnesota United,5,2023,Philadelphia Union,None,Right,Medium,Medium,7,0,Goal
+Cameron Dunbar,Orange County SC,LA Galaxy II,9,2022,El Paso Locomotive,None,Right,Fast,Fast,9,2,Goal
+Cameron Dunbar,Orange County SC,LA Galaxy II,7,2022,Colorado Springs,None,Right,Medium,Slow,3,0,Goal
+Cameron Dunbar,Orange County SC,LA Galaxy II,7,2022,San Diego Loyal,None,Right,Fast,Medium,2,0,Goal
+Kevin Lankford,Orange County SC,St. Pauli,8,2019,Lubeck,None,Right,Medium,Medium,9,1,Goal
 Darnell King,Phoenix Rising,Phoenix Rising,10,2020,Reno 1868,None,Right,Fast,Medium,2,0,Goal
 Daniel Krutzen,Phoenix Rising,Forge,9,2021,Independiente,None,Left,Medium,Medium,2,0,Save
 Daniel Krutzen,Phoenix Rising,Forge,8,2021,Atletico Ottawa,None,Left,Medium,Medium,3,0,Goal
@@ -420,7 +438,7 @@ Daniel Krutzen,Phoenix Rising,Forge,12,2020,Arcahaie,None,Left,Medium,Medium,9,0
 Daniel Krutzen,Phoenix Rising,Forge,12,2020,Arcahaie,None,Left,Medium,Medium,3,0,Save
 Daniel Krutzen,Phoenix Rising,Forge,11,2020,Tauro,None,Left,Medium,Medium,2,0,Goal
 Daniel Krutzen,Phoenix Rising,Forge,9,2020,Pacific FC,None,Left,Medium,Medium,3,0,Goal
-Babouccar Njie,Phoenix Rising,Rio Grande Valley,11,2021,Phoenix Rising,None,Left,Medium,Fast,9,0,Goal
+Babouccar Njie,Oakland Roots,Rio Grande Valley,11,2021,Phoenix Rising,None,Left,Medium,Fast,9,0,Goal
 Kevon Lambert,Phoenix Rising,Phoenix Rising,10,2019,Austin Bold,None,Right,Medium,Medium,3,0,Save
 Kevon Lambert,Phoenix Rising,Phoenix Rising,10,2017,Swope Park Rangers,None,Right,Medium,Medium,7,0,Save
 Jose Hernandez,Phoenix Rising,Oakland Roots,9,2021,San Diego Loyal,None,Right,Medium,Medium,9,0,Goal
@@ -702,3 +720,92 @@ Bruno Lapa,Memphis 901,Birmingham Legion,9,2021,Memphis 901,None,Right,Medium,Me
 Rodrigo Da Costa,Memphis 901,FC Tulsa,7,2021,Atlanta United II,None,Left,Slow,Medium,8,0,Save
 Rodrigo Da Costa,Memphis 901,Tulsa Roughnecks,3,2019,Rio Grande Valley,None,Left,Medium,Medium,9,2,Goal
 Dylan Borczak,Memphis 901,Oakland Golden Grizzlies,9,2021,Robert Morris Colonials,None,Right,Fast,Medium,6,0,Goal
+Camden Riley,San Diego Loyal,Swope Park Rangers,6,2019,Charlotte Independence,None,Right,Medium,Fast,3,0,Save
+Camden Riley,San Diego Loyal,Swope Park Rangers,5,2019,Memphis 901,None,Right,Medium,Fast,2,0,Goal
+Carlos Guzman,San Diego Loyal,Tijauna,10,2017,Morelia,None,Right,Medium,Slow,7,3,Miss
+Carlos Guzman,San Diego Loyal,Tijauna,3,2016,Necaxa,None,Right,Medium,Fast,9,2,Goal
+Michael Chilaka,San Diego Loyal,Beitar Tel Aviv Bat Yam,5,2021,Hapoel Tel Aviv,None,Right,Medium,Fast,2,0,Goal
+Joe Corona,San Diego Loyal,San Diego Loyal,8,2023,Memphis 901,None,Right,Medium,Fast,9,0,Save
+Joe Corona,San Diego Loyal,San Diego Loyal,5,2023,Rio Grande Valley,None,Right,Medium,Fast,7,1,Goal
+Joe Corona,San Diego Loyal,San Diego Loyal,5,2023,Orange County SC,None,Right,Medium,Fast,2,3,Goal
+Joe Corona,San Diego Loyal,San Diego Loyal,4,2023,Seattle Sounders,None,Right,Medium,Medium,2,0,Goal
+Joe Corona,San Diego Loyal,Club America,9,2018,Juarez,None,Right,Medium,Medium,2,1,Goal
+Alejandro Guido,San Diego Loyal,San Diego Loyal,9,2022,Phoenix Rising,None,Right,Medium,Fast,7,0,Save
+Alejandro Guido,San Diego Loyal,San Diego Loyal,9,2022,San Antonio FC,None,Right,Medium,Fast,4,0,Save
+Alejandro Guido,San Diego Loyal,San Diego Loyal,6,2022,Orange County SC,None,Right,Medium,Medium,9,2,Goal
+Charlie Adams,San Diego Loyal,San Diego Loyal,7,2023,Indy Eleven,None,Left,Medium,Medium,9,0,Goal
+Charlie Adams,San Diego Loyal,San Diego Loyal,4,2023,FC Tulsa,None,Left,Medium,Slow,5,3,Miss
+Charlie Adams,San Diego Loyal,San Diego Loyal,10,2022,New Mexico United,None,Left,Medium,Fast,8,0,Goal
+Charlie Adams,San Diego Loyal,San Diego Loyal,8,2022,Monterey Bay FC,None,Left,Medium,Fast,7,1,Goal
+Charlie Adams,San Diego Loyal,San Diego Loyal,10,2021,LA Galaxy II,None,Left,Medium,Medium,9,0,Goal
+Blake Bodily,San Diego Loyal,Portland Timbers II,4,2022,Real Monarchs,None,Left,Medium,Medium,9,0,Goal
+Blake Bodily,San Diego Loyal,Portland Timbers II,4,2022,Houston Dynamo II,None,Left,Medium,Medium,2,0,Goal
+Blake Bodily,San Diego Loyal,Portland Timbers,11,2020,FC Dallas,None,Left,Medium,Fast,2,0,Goal
+Ronaldo Damus,San Diego Loyal,San Diego Loyal,6,2023,Sacramento Republic,None,Right,Medium,Medium,9,1,Goal
+Ronaldo Damus,San Diego Loyal,Orange County SC,11,2021,Oakland Roots,None,Right,Medium,Medium,2,0,Save
+Ronaldo Damus,San Diego Loyal,Orange County SC,11,2021,Oakland Roots,None,Right,Medium,Medium,9,1,Goal
+Ronaldo Damus,San Diego Loyal,North Texas SC,9,2020,FC Tuscon,None,Right,Medium,Medium,2,0,Goal
+Ronaldo Damus,San Diego Loyal,North Texas SC,9,2019,Orlando City II,None,Right,Medium,Medium,3,0,Goal
+Phanuel Kavita,Birmingham Legion,Birmingham Legion,10,2022,Pittsburgh Riverhounds,None ,Right,Medium,Fast,2,1,Goal
+Alex Crognale,Birmingham Legion,Birmingham Legion,10,2022,Pittsburgh Riverhounds,None,Right,Fast,Medium,3,0,Save
+Alex Crognale,Birmingham Legion,Columbus Crew,6,2018,Chicago Fire,None,Right,Medium,Medium,9,1,Goal
+Jake Rufe,Birmingham Legion,Birmingham Legion,4,2023,Chattanooga FC,None,Right,Fast,Fast,7,1,Goal
+Jake Rufe,Birmingham Legion,Pittsburgh Riverhounds,10,2022,Pittsburgh Riverhounds,None,Right,Fast,Medium,8,0,Goal
+Gabriel Alves,Birmingham Legion,Birmingham Legion,4,2023,Chattanooga FC,None,Left,Slow,Fast,9,1,Goal
+Gabriel Alves,Birmingham Legion,Marshall Thundering Herd,11,2022,Virginia Cavaliers,None,Left,Slow,Fast,9,2,Goal
+Gabriel Alves,Birmingham Legion,Agua Santa U20,1,2019,Avai U20,None,Left,Medium,Medium,8,0,Goal
+Collin Smith,Birmingham Legion,North Texas SC,8,2022,Portland Timbers II,None,Right,Medium,Medium,9,0,Goal
+Collin Smith,Birmingham Legion,North Texas SC,5,2022,Tacoma Defiance,None,Right,Medium,Medium,7,0,Save
+Collin Smith,Birmingham Legion,North Texas SC,4,2022,Tacoma Defiance,None,Right,Medium,Medium,9,1,Goal
+Grayson Dupont,Birmingham Legion,Birmingham Legion,10,2022,Pittsburgh Riverhounds,None,Right,Medium,Fast,8,0,Save
+Enzo Martinez,Birmingham Legion,Birmingham Legion,9,2023,Miami FC,None,Right,Medium,Fast,3,0,Save
+Enzo Martinez,Birmingham Legion,Birmingham Legion,8,2023,Detroit City,None,Right,Medium,Fast,2,0,Goal
+Enzo Martinez,Birmingham Legion,Birmingham Legion,4,2023,Chattanooga FC,None,Right,Fast,Fast,5,0,Goal
+Enzo Martinez,Birmingham Legion,Birmingham Legion,10,2022,Pittsburgh Riverhounds,None,Right,Fast,Medium,2,0,Goal
+Enzo Martinez,Birmingham Legion,Birmingham Legion,9,2022,Indy Eleven,None,Right,Fast,Fast,3,0,Save
+Enzo Martinez,Birmingham Legion,Charlotte Independence,11,2021,Memphis 901,None,Right,Fast,Medium,3,0,Save
+Enzo Martinez,Birmingham Legion,Charlotte Independence,10,2021,Charleston Battery,None,Right,Fast,Fast,2,1,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,8,2020,Memphis 901,None,Right,Fast,Medium,8,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,8,2020,Birmingham Legion,None,Right,Fast,Fast,3,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,9,2019,Hartford Athletic,None,Right,Fast,Medium,3,1,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,5,2019,Florida Soccer Soldiers,None,Right,Fast,Fast,2,1,Save
+Enzo Martinez,Birmingham Legion,Colorado Rapids,7,2018,Boca Juniors,None,Right,Fast,Medium,2,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,9,2017,Richmond Kickers,None,Right,Fast,Fast,4,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,6,2017,Richmond Kickers,None,Right,Fast,Fast,2,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,5,2017,Charlotte Eagles,None,Right,Fast,Fast,4,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,8,2016,FC Cincinnatti,None,Right,Fast,Medium,6,0,Save
+Enzo Martinez,Birmingham Legion,Charlotte Independence,6,2016,City Islanders,None,Right,Medium,Medium,7,0,Goal
+Enzo Martinez,Birmingham Legion,Charlotte Independence,5,2016,FC Montreal,None,Right,Fast,Fast,3,3,Miss
+Enzo Martinez,Birmingham Legion,Charlotte Independence,4,2016,Charleston Battery,None,Right,Fast,Fast,3,2,Goal
+Mikey Lopez,Birmingham Legion,Birmingham Legion,10,2022,Pittsburgh Riverhounds,None,Right,Medium,Medium,2,0,Goal
+Mikey Lopez,Birmingham Legion,San Antonio FC,7,2018,OKC Energy,None,Right,Medium,Medium,9,0,Goal
+Tyler Freeman,Birmingham Legion,Huntsville City,5,2023,Chicago Fire II,None,Right,Medium,Fast,6,2,Goal
+Tyler Freeman,Birmingham Legion,Huntsville City,4,2023,FC Cincinnatti II,None,Right,Medium,Fast,8,0,Goal
+Tyler Freeman,Birmingham Legion,Loudoun United,8,2022,Atlanta United II,None,Right,Fast,Fast,2,1,Goal
+Prosper Kasim,Birmingham Legion,Birmingham Legion,8,2022,Atlanta United II,None,Left,Medium,Medium,2,0,Goal
+Prosper Kasim,Birmingham Legion,Birmingham Legion,7,2022,Loudoun United,None,Left,Slow,Medium,9,0,Goal
+Prosper Kasim,Birmingham Legion,Birmingham Legion,9,2019,Atlanta United II,None,Left,Medium,Fast,2,1,Goal
+Prosper Kasim,Birmingham Legion,Birmingham Legion,7,2019,Atlanta United II,None,Left,Medium,Medium,3,0,Goal
+Tyler Pasher,Birmingham Legion,Birmingham Legion,4,2023,Chattanooga FC,None,Left,Fast,Fast,9,0,Goal
+Tyler Pasher,Birmingham Legion,Indy Eleven,10,2020,Saint Louis FC,None,Left,Fast,Fast,9,1,Goal
+Tyler Pasher,Birmingham Legion,Indy Eleven,9,2020,Louisville City,None,Left,Fast,Fast,7,2,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,8,2023,Detroit City,None,Right,Fast,Fast,2,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,8,2023,FC Tulsa,None,Right,Fast,Fast,2,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,8,2021,FC Tulsa,None,Right,Fast,Fast,3,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,7,2021,Atlanta United II,None,Right,Medium,Fast,2,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,7,2021,Indy Eleven,None,Right,Medium,Fast,2,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,5,2021,Louisville City,None,Right,Fast,Fast,9,1,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,9,2020,North Carolina FC,None,Right,Fast,Fast,4,0,Save
+Neco Brett,Birmingham Legion,Birmingham Legion,8,2020,Memphis 901,None,Right,Medium,Medium,8,0,Goal
+Neco Brett,Birmingham Legion,Birmingham Legion,8,2020,North Carolina FC,None,Right,Medium,Fast,7,0,Goal
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,10,2019,Birmingham Legion,None,Right,Medium,Fast,2,0,Goal
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,10,2019,Atlanta United II,None,Right,Medium,Medium,8,0,Goal
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,6,2019,Ottawa Fury,None,Right,Medium,Fast,3,0,Save
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,4,2019,Hartford Athletic,None,Right,Medium,Medium,7,0,Goal
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,4,2019,Louisville City,None,Right,Medium,Fast,2,2,Goal
+Neco Brett,Birmingham Legion,Pittsburgh Riverhounds,7,2018,Charleston Battery,None,Right,Medium,Medium,7,0,Save
+Juan Agudelo,Birmingham Legion,Pittsburgh Riverhounds,4,2023,Chattanooga FC,None,Right,Medium,Medium,7,1,Save
+Juan Agudelo,Birmingham Legion,Pittsburgh Riverhounds,9,2022,Miami FC,None,Right,Medium,Medium,8,0,Save
+Juan Agudelo,Birmingham Legion,Pittsburgh Riverhounds,8,2022,New York Red Bulls II,None,Right,Medium,Medium,6,1,Goal
+Juan Agudelo,Birmingham Legion,Pittsburgh Riverhounds,8,2022,Memphis 901,None,Right,Medium,Medium,5,1,Goal
+Juan Agudelo,Birmingham Legion,Pittsburgh Riverhounds,4,2022,Hartford Athletic,None,Right,Medium,Medium,9,0,Goal

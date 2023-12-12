@@ -35,7 +35,7 @@ def calculateTaker():
     - PK taken 2 years ago in different team
     
     Level 5
-    - PK other penalty
+    - Any other PK taken
 
     Other:
     - PK scored: +1
@@ -48,8 +48,9 @@ def calculateTaker():
     LEVEL_FOUR = 2
     LEVEL_FIVE = 1
 
-    MISSED_PK = -2
     GOAL_PK = 1
+    MISSED_PK = -2
+    
 
     player_penalty_scores = {}  # dictionary holding penalties taken in {name: PENALTY_TYPE total count, penalty scores]
     with open(DATA_SHEET, newline='') as file:
