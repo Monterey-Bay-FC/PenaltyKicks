@@ -9,8 +9,8 @@ import random
 
 import plotly.graph_objects as go
 
-CURRENT_YEAR = 2023
-CURRENT_MONTH = 4
+CURRENT_YEAR = 2024
+CURRENT_MONTH = 2
 PENALTY_TYPE = "Career"  # "Last Season" or "Career" are the two options, changes how the first index of the dictionary values is calculated (penalties taken)
 
 DATA_SHEET = "data/penaltyData.csv"
