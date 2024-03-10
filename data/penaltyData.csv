@@ -72,7 +72,7 @@ Dario Suarez,,FC Tulsa,9,2021,Sporting Kansas City II,None,Right,Medium,Fast,2,0
 Dario Suarez,,FC Tulsa,9,2021,Birmingham Legion,None,Right,Medium,Fast,2,2,Goal
 Dario Suarez,,FC Tulsa,9,2021,Indy Eleven,None,Right,Medium,Fast,6,0,Goal
 Dario Suarez,,FC Tulsa,6,2021,Sporting Kansas City II,None,Right,Medium,Fast,5,0,Goal
-Eder Borelli,,El Paso Locomotive,10,2020,New Mexico United,None,Left,Medium,Fast,2,0,Goal
+Eder Borelli,El Paso Locomotive,El Paso Locomotive,10,2020,New Mexico United,None,Left,Medium,Fast,2,0,Goal
 Denys Kostyshyn,,Kolos Kovalivka,4,2021,Olimpik Donetsk,None,Left,Fast,Fast,6,1,Goal
 Denys Kostyshyn,,Kolos Kovalivka,12,2020,Nyva Vinnytsya,None,Left,Fast,Medium,9,0,Goal
 Josue Gomez,,El Paso Locomotive,6,2022,Phoenix Rising,None,Left,Medium,Fast,2,0,Goal
@@ -290,11 +290,15 @@ Florian Valot,,New York Red Bulls II,11,2017,Louisville City,None,Right,Medium,M
 Florian Valot,,New York Red Bulls II,10,2017,Louisville City,None,Right,Medium,Medium,6,1,Goal
 Benjamin Mines,,Orange County SC,11,2021,San Antonio FC,None,Right,Medium,Medium,8,0,Goal
 Benjamin Mines,,New York Red Bulls II,11,2017,Louisville City,None,Right,Medium,Fast,7,1,Save
-Joaquin Rivas,,FC Tulsa,3,2022,Birmingham Legion,None,Left,Medium,Fast,9,1,Goal
-Joaquin Rivas,,FC Tulsa,10,2021,Memphis 901,None,Left,Medium,Fast,8,3,Miss
-Joaquin Rivas,,FC Tulsa,5,2021,Indy Eleven,None,Left,Medium,Medium,9,2,Goal
-Joaquin Rivas,,Tulsa Roughnecks,9,2018,Seattle Sounders II,None,Left,Medium,Medium,8,0,Goal
-Joaquin Rivas,,Tulsa Roughnecks,7,2018,Las Vegas Lights,None,Left,Medium,Medium,8,2,Goal
+Joaquin Rivas,El Paso Locomotive,Miami FC,10,2023,Charleston Battery,None,Left,Medium,Medium,9,0,Goal
+Joaquin Rivas,El Paso Locomotive,Miami FC,9,2023,Louisville City,None,Left,Medium,Medium,9,0,Goal
+Joaquin Rivas,El Paso Locomotive,Miami FC,8,2023,Hartford Athletic,None,Left,Medium,Fast,4,0,Goal
+Joaquin Rivas,El Paso Locomotive,Miami FC,8,2023,El Paso Locomotive,None,Left,Medium,Medium,9,0,Goal
+Joaquin Rivas,El Paso Locomotive,FC Tulsa,3,2022,Birmingham Legion,None,Left,Medium,Fast,9,1,Goal
+Joaquin Rivas,El Paso Locomotive,FC Tulsa,10,2021,Memphis 901,None,Left,Medium,Fast,8,3,Miss
+Joaquin Rivas,El Paso Locomotive,FC Tulsa,5,2021,Indy Eleven,None,Left,Medium,Medium,9,2,Goal
+Joaquin Rivas,El Paso Locomotive,Tulsa Roughnecks,9,2018,Seattle Sounders II,None,Left,Medium,Medium,8,0,Goal
+Joaquin Rivas,El Paso Locomotive,Tulsa Roughnecks,7,2018,Las Vegas Lights,None,Left,Medium,Medium,8,2,Goal
 Claudio Repetto,,Miami FC,4,2023,Las Vegas Lights,None,Right,Medium,Fast,9,0,Goal
 Claudio Repetto,,Miami FC,4,2023,Jacksonville Armada II,None,Right,Medium,Fast,9,1,Goal
 Claudio Repetto,,Charleston Battery,10,2021,Tampa Bay Rowdies,None,Right,Medium,Medium,2,0,Goal
@@ -310,7 +314,7 @@ Kyle Murphy,,Memphis 901,8,2021,Colorado Springs Switchbacks,None,Right,Medium,M
 Kyle Murphy,,Loudoun United,10,2019,New York Red Bulls II,None,Right,Medium,Medium,2,0,Goal
 Josh Suggs,,New Mexico United,5,2019,Phoenix Rising,None,Left,Medium,Medium,3,0,Save
 Kalen Ryden,,New Mexico United,10,2020,El Paso Locomotive,None,Left,Medium,Fast,9,2,Goal
-Amando Moreno,,New Mexico United,8,2020,Colorado Springs,None,Right,Slow,Fast,3,0,Goal
+Amando Moreno,El Paso Locomotive,New Mexico United,8,2020,Colorado Springs,None,Right,Slow,Fast,3,0,Goal
 Milo Garvanian,,North Carolina Tarheels,9,2022,Notre Dame,None,Left,Fast,Fast,9,0,Goal
 Milo Garvanian,,University of North Carolina,8,2022,University of South Florida,None,Left,Fast,Medium,7,0,Goal
 Milo Garvanian,,University of North Carolina,11,2021,Loyola Grayhounds,None,Left,Fast,Medium,8,0,Goal
@@ -605,11 +609,11 @@ PC,,Fort Lauterdale Strikers,6,2016,FC Edmonton,None,Left,Medium,Fast,5,0,Goal
 PC,,Fort Lauterdale Strikers,8,2015,Indy Eleven,None,Left,Medium,Fast,8,1,Goal
 Carter Manley,,Duke,11,2017,Fordham Rams,None,Right,Medium,Fast,3,0,Save
 Mohammed Abu,,Columbus Crew,6,2018,Chicago Fire,None,Left,Fast,Fast,8,2,Goal
-Justin Dhillon,,San Antonio FC,7,2022,Atlanta United II,None,Right,Medium,Medium,3,3,Miss
-Justin Dhillon,,San Antonio FC,4,2022,New Mexico United,None,Right,Fast,Fast,5,1,Goal
-Justin Dhillon,,San Antonio FC,11,2021,Orange County SC,None,Right,Medium,Medium,2,0,Miss
-Justin Dhillon,,Tacoma Defiance,9,2019,Reno 1868,None,Right,Medium,Medium,7,0,Save
-Justin Dhillon,,LA Galaxy II,7,2018,Portland Timbers II,None,Right,Medium,Fast,7,0,Save
+Justin Dhillon,El Paso Locomotive,San Antonio FC,7,2022,Atlanta United II,None,Right,Medium,Medium,3,3,Miss
+Justin Dhillon,El Paso Locomotive,San Antonio FC,4,2022,New Mexico United,None,Right,Fast,Fast,5,1,Goal
+Justin Dhillon,El Paso Locomotive,San Antonio FC,11,2021,Orange County SC,None,Right,Medium,Medium,2,0,Miss
+Justin Dhillon,El Paso Locomotive,Tacoma Defiance,9,2019,Reno 1868,None,Right,Medium,Medium,7,0,Save
+Justin Dhillon,El Paso Locomotive,LA Galaxy II,7,2018,Portland Timbers II,None,Right,Medium,Fast,7,0,Save
 Ignacio Bailone,,San Antonio FC,8,2020,Rio Grande Valley,Paul Blanchette,Left,Medium,Medium,3,0,Save
 Ignacio Bailone,,Instituto,12,2017,Quilmes,None,Left,Medium,Medium,2,0,Goal
 Ignacio Bailone,,Estudiantes,9,2016,Union Santa Fe,None,Left,Medium,Fast,2,0,Save
@@ -815,3 +819,12 @@ Trevor Amann,Sacramento Republic,Northern Colorado FC,7,2023,Charlotte Independe
 Trevor Amann,Sacramento Republic,Northern Colorado FC,6,2023,One Knoxville,None,Right,Medium,Fast,3,0,Save
 Trevor Amann,Sacramento Republic,Northern Colorado FC,5,2023,Central Valley Fuego,None,Right,Slow,Medium,8,0,Goal
 Trevor Amann,Sacramento Republic,Northern Colorado FC,9,2022,North Carolina FC,None,Right,Medium,Fast,2,1,Goal
+Brandan Craig,El Paso Locomotive,Philadelphia Union II,4,2023,Toronto FC II,None ,Right,Fast,Fast,3,2,Goal
+Brandan Craig,El Paso Locomotive,Philadelphia Union II,4,2023,Chicago Fire II,None,Right,Fast,Fast,2,0,Goal
+Brandan Craig,El Paso Locomotive,Philadelphia Union II,8,2022,Inter Miami II,None,Right,Medium,Fast,9,0,Goal
+Tony Alfaro,El Paso Locomotive,Reno 1868,10,2020,Phoenix Rising,None,Left,Medium,Medium,2,1,Goal
+Noah Dollenmayer,El Paso Locomotive,LAFC II,5,2023,Tacoma Defiance,None,Left,Fast,Slow,5,3,Miss
+Petar Petrovic,El Paso Locomotive,Trelleborg,10,2021,Akropolis,None,Right,Medium,Fast,3,0,Goal
+Petar Petrovic,El Paso Locomotive,Trelleborg,4,2021,Hammarby,None,Right,Medium,Fast,2,1,Goal
+Eric Calvillo,El Paso Locomotive,El Paso Locomotive,7,2023,San Antonio FC,None,Right,Medium,Fast,2,1,Goal
+Francisco Nevarez,El Paso Locomotive,FC Juarez U20,7,2021,Atlas U20,None,Right,Medium,Fast,2,0,Goal
